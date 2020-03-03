@@ -7,7 +7,7 @@ use pocketmine\plugin\PluginBase;
 
 class MainTest extends PluginBase{
 	public function onEnable(){
-		$this->getLogger()->info("Enabled.");
+		$this->getLogger()->info("Enabled..");
 	}
 	
 	public function onDisable(){
