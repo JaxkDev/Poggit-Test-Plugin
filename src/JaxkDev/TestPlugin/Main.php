@@ -14,5 +14,3 @@ class MainTest extends PluginBase{
 		$this->getLogger()->info("Disabled.");
 	}
 }
-
-class Test{}
