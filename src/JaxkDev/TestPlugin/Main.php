@@ -5,7 +5,7 @@ namespace JaxkDev\TestPlugin;
 
 use pocketmine\plugin\PluginBase;
 
-class Main extends PluginBase{
+class MainTest extends PluginBase{
 	public function onEnable(){
 		$this->getLogger()->info("Enabled.");
 	}
@@ -14,3 +14,5 @@ class Main extends PluginBase{
 		$this->getLogger()->info("Disabled.");
 	}
 }
+
+class Test{}
