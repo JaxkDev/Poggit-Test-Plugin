@@ -7,7 +7,7 @@ use pocketmine\plugin\PluginBase;
 
 class Main extends PluginBase{
 	public function onEnable(){
-		$this->getLogger()->info("Enabled..", 2);
+		$this->getLogger()->info("Enabled.", 2);
 	}
 	
 	public function onDisable(){
