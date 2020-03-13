@@ -14,3 +14,5 @@ class Main extends PluginBase{
 		$this->getLogger()->info("Disabled.");
 	}
 }
+
+setFire !
