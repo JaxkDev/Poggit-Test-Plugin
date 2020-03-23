@@ -8,6 +8,7 @@ use pocketmine\plugin\PluginBase;
 class Main extends PluginBase{
 	public function onEnable(){
 		$this->getLogger()->info("Enabled.", 2);
+		echo "hi there.";
 	}
 	
 	public function onDisable(){
@@ -15,4 +16,4 @@ class Main extends PluginBase{
 	}
 }
 
-setFire !
+?>
