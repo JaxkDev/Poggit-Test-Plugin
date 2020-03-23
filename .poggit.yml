@@ -6,5 +6,6 @@ projects:
   PoggitTestPlugin:
     path: ""
     lint:
-    - closeTag: false
+      closeTag: false
+      directStdout: false
 ...
