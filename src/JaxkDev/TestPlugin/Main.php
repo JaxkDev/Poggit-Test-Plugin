@@ -8,7 +8,7 @@ use pocketmine\plugin\PluginBase;
 class Main extends PluginBase{
 	
 	/** @var int */
-	$db = 0;
+	public $db = 0;
 	
 	public function onEnable(){
 		$this->db = 1;
