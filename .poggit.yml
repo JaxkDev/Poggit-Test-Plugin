@@ -5,5 +5,7 @@ branches:
 projects:
   PoggitTestPlugin:
     path: ""
-    lint: true
+    lint:
+      closeTag: false
+      directStdout: false
 ...
