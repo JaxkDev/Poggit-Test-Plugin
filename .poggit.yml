@@ -5,8 +5,4 @@ branches:
 projects:
   PoggitTestPlugin:
     path: ""
-    lint:
-      closeTag: true
-      directStdout: false
-      phpstan: false
 ...
