@@ -8,4 +8,5 @@ projects:
     lint:
       closeTag: false
       directStdout: false
+      php: RandomValue
 ...
