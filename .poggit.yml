@@ -6,7 +6,7 @@ projects:
   PoggitTestPlugin:
     path: ""
     lint:
-      closeTag: false
+      closeTag: true
       directStdout: false
-      php: RandomValue
+      phpstan: false
 ...
