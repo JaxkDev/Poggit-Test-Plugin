@@ -8,5 +8,4 @@ projects:
     lint: 
       closeTag: false
       phpstan: true
-      r: d
 ...
