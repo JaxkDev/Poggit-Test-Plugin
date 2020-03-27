@@ -5,5 +5,7 @@ branches:
 projects:
   PoggitTestPlugin:
     path: ""
-    lint: false
+    lint: 
+      closeTag: false
+      phpstan: true
 ...
