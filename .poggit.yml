@@ -5,5 +5,5 @@ branches:
 projects:
   PoggitTestPlugin:
     path: ""
-    lint: true
+    lint: false
 ...
