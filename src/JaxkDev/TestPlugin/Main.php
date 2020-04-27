@@ -23,6 +23,6 @@ class Main extends PluginBase{
 }
 
 
-class Test(){}
+class Test{}
 
 ?>
