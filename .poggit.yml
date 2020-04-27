@@ -4,7 +4,7 @@ branches:
 - master
 projects:
   PoggitTestPlugin:
-    path: "what/the/hell/"
+    path: "/"
     lint:
       phpstan: true
 ...
