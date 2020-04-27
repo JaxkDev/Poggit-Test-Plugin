@@ -4,8 +4,7 @@ branches:
 - master
 projects:
   PoggitTestPlugin:
-    path: ""
-    lint: 
-      closeTag: false
+    path: "./"
+    lint:
       phpstan: true
 ...
