@@ -13,7 +13,7 @@ class Main extends PluginBase{
 	public function onEnable(){
 		$this->db = 1;
 		$this->getLogger()->info("Enabled.", 2);
-		echo "hi there..";
+		echo "hi there...";
 	}
 	
 	public function onDisable(){
