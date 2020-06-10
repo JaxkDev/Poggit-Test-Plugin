@@ -22,7 +22,3 @@ class Main extends PluginBase{
 	}
 }
 
-
-class Test{}
-
-?>
